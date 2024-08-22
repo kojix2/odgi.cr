@@ -1,0 +1,9 @@
+name: odgi
+version: 0.1.0
+
+authors:
+  - kojix2 <2xijok@gmail.com>
+
+crystal: '>= 1.14.0-dev'
+
+license: MIT
